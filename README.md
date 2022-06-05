@@ -1,5 +1,3 @@
-README.md
-
 ## Welcome !
 
 I am a first-generation college graduate from the University of California, Riverside with a BA in Studio Art and BA in Sociology. I am not fond of the idea of being boxed into one set path; rather, I seek to maintain active in all my interests. I continuously seek to learn and implement new methods into my quantitative and qualitative skills and interests in research and the arts. As a highly motivated individual and self-starter, I have laid the foundation of an intersectional identities research project. Through my culminated experiences in relation to data, I have gained skills in Softwares such as SPSS, ATLAS.ti, Python, SQL, and survey design.
@@ -47,8 +45,3 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jrodr066/jrodr066.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-![image](https://user-images.githubusercontent.com/63874334/172032578-74fe3873-4a0f-4207-8b5d-4d802897e93c.png)
